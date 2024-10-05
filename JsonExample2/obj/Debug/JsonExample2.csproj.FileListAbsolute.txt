@@ -1,0 +1,10 @@
+C:\EmekWebRepo\C#\Proje12-Json2\JsonExample2\bin\Debug\JsonExample2.exe.config
+C:\EmekWebRepo\C#\Proje12-Json2\JsonExample2\bin\Debug\JsonExample2.exe
+C:\EmekWebRepo\C#\Proje12-Json2\JsonExample2\bin\Debug\JsonExample2.pdb
+C:\EmekWebRepo\C#\Proje12-Json2\JsonExample2\obj\Debug\JsonExample2.csproj.AssemblyReference.cache
+C:\EmekWebRepo\C#\Proje12-Json2\JsonExample2\obj\Debug\JsonExample2.Form1.resources
+C:\EmekWebRepo\C#\Proje12-Json2\JsonExample2\obj\Debug\JsonExample2.Properties.Resources.resources
+C:\EmekWebRepo\C#\Proje12-Json2\JsonExample2\obj\Debug\JsonExample2.csproj.GenerateResource.cache
+C:\EmekWebRepo\C#\Proje12-Json2\JsonExample2\obj\Debug\JsonExample2.csproj.CoreCompileInputs.cache
+C:\EmekWebRepo\C#\Proje12-Json2\JsonExample2\obj\Debug\JsonExample2.exe
+C:\EmekWebRepo\C#\Proje12-Json2\JsonExample2\obj\Debug\JsonExample2.pdb
